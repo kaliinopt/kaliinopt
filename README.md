@@ -23,7 +23,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaliinopt&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaliinopt&layout=compact&theme=github_dark)
-![[GitHub Streak](https://streak-stats.demolab.com?user=kaliinopt&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaliinopt&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🚀 Основные проекты:
 
