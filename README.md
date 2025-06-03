@@ -21,11 +21,9 @@
 
 ## 📊 Моя статистика
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaliinopt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliinopt&layout=compact&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaliinopt&theme=github-dark&hide_border=true" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaliinopt&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaliinopt&layout=compact&theme=github_dark)
+![[GitHub Streak](https://streak-stats.demolab.com?user=kaliinopt&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🚀 Основные проекты:
 
