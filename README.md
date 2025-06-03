@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, меня зовут Александр 👋  
 
-<!--
-**kaliinopt/kaliinopt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я backend-разработчик на python
+## 🛠️ Технологии, с которыми я работаю
 
-Here are some ideas to get you started:
+### Мой стек:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Моя статистика
+
+![Kaliinopt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaliinopt&show_icons=true&theme=github_dark)
