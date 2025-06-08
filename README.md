@@ -1,4 +1,4 @@
-# Привет, меня зовут Александр 👋  
+# Привет, я kaliinopt 👋 
 
 🚀 Backend-разработчик на Python | FastAPI | PostgreSQL | Docker | Sqlalchemy | Pytest
 
